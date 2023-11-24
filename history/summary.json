@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.kooomo.com.ico",
     "slug": "kooomo",
     "status": "up",
-    "uptime": "99.89%",
+    "uptime": "99.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.89%",
-    "time": 845,
-    "timeDay": 688,
-    "timeWeek": 736,
-    "timeMonth": 810,
-    "timeYear": 845,
+    "uptimeYear": "99.90%",
+    "time": 846,
+    "timeDay": 961,
+    "timeWeek": 767,
+    "timeMonth": 807,
+    "timeYear": 846,
     "dailyMinutesDown": {
       "2023-09-26": 468
     }
