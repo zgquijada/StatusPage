@@ -4,11 +4,11 @@
     "url": "https://www.kooomo.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.kooomo.com.ico",
     "slug": "kooomo",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "94.36%",
-    "uptimeWeek": "99.19%",
-    "uptimeMonth": "99.81%",
+    "uptimeDay": "94.88%",
+    "uptimeWeek": "99.27%",
+    "uptimeMonth": "99.83%",
     "uptimeYear": "99.97%",
     "time": 1015,
     "timeDay": 822,
@@ -16,7 +16,7 @@
     "timeMonth": 1077,
     "timeYear": 1074,
     "dailyMinutesDown": {
-      "2024-10-31": 77,
+      "2024-10-31": 69,
       "2024-10-30": 5,
       "2024-09-13": 60
     }
