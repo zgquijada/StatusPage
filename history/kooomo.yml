@@ -1,7 +1,7 @@
 url: https://www.kooomo.com
-status: up
-code: 200
-responseTime: 1095
-lastUpdated: 2025-04-21T23:14:54.659Z
+status: down
+code: 500
+responseTime: 606
+lastUpdated: 2025-04-22T09:57:03.408Z
 startTime: 2023-01-17T16:39:02.000Z
 generator: Upptime <https://github.com/upptime/upptime>
